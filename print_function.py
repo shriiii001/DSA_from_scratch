@@ -1,0 +1,1 @@
+print("Hey, I am Shri. I'm not here because I know everything — I'm here because I'm eager to learn everything I can. Every day, I push myself to improve, embrace new challenges, and grow beyond yesterday's version of myself. I believe that small, consistent progress creates extraordinary results, and I'm excited for every opportunity to learn, build, and make an impact.")
